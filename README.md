@@ -1,12 +1,13 @@
 # GLAL
 GLAL - Graphic Libraries Abstraction Layer
+
 Abstraction Layer For Native Graphics API's For Each Platform, Put Into One For,
-macOS & iOS & appleTVOS & ipadOS & watchOS - Metal,
-Windows - DirectX,
-Linux - Vulkan,
-Android - OpenGLES
-and also it checks the versions of macOS/iOS/ipadOS/watchOS/appleTVOS and assign which API to use(Metal or OpenGLES),
-same for android(Vulkan or OpenGLES).
+ macOS, iOS, appleTVOS, ipadOS, watchOS - Metal,
+ Windows - DirectX,
+ Linux - Vulkan,
+ Android - OpenGLES
+  and also it checks the versions of macOS,iOS,ipadOS,watchOS,appleTVOS and assign which API to use(Metal or OpenGLES),
+ same for android(Vulkan or OpenGLES).
 
 The version of each graphics API(Metal/Vulkan/OpenGLES/DirectX) is dependent on the user acceptance rate worldwide, so your application will be running on most of the devices for today and we will update GLAL when necessary.
 
