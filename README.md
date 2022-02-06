@@ -1,6 +1,5 @@
 # GLAL
 GLAL - Graphic Libraries Abstraction Layer
-For Users : 
 Abstraction Layer For Native Graphics API's For Each Platform, Put Into One For,
 macOS & iOS & appleTVOS & ipadOS & watchOS - Metal,
 Windows - DirectX,
@@ -16,6 +15,5 @@ After every update you can just add the new libraries directly to your project a
 and also its open source !
 
 
-For Open Source Devs : 
 The main idea is to make a common function out of every API's similar function and make an API so that you can write a single program and it should run everywhere with the proper executable, so no hassling around with other graphics API for hardware accelerated rendering,
 use this one API and get the job done.
